@@ -18,7 +18,7 @@ REFINANDO:
 - Pagamento – Pode ter cadastrado mais de uma forma de pagamento.
 - Entrega – Possui status e código de rastreio.
 
-## Modelo EER
+## Diagrama EER:
 
 <div align="center">
 <img src="https://github.com/RicardoHirai/Projeto_Conceitual_BDs_E-Commerce/blob/main/Proj_BDs-ECommerce.png">
